@@ -1,0 +1,613 @@
+Name,Author,User Rating,Reviews,Price,Year,Genre
+Shadows of the Earth,Amelia West,4.3,10247,25,2015,Fiction
+The Glass Garden,Victor Greene,3.9,14766,17,2018,Mystery
+Midnight in Bordeaux,Sophia Mendez,4.2,19201,12,2011,Romance
+Echoes of the Past,Michael Clarke,4.7,29625,26,2009,Non Fiction
+City of the Fallen,Eliza Carter,4.1,1154,27,2014,Historical
+Threads of Fate,Gabrielle Stone,4.8,26887,11,2017,Children's Book
+Tides of Vengeance,Lucas Henderson,4.6,15428,29,2016,Thriller
+In the Ivory Tower,Charlotte E. Jones,4,28827,10,2012,Biography
+Blood in the Rose Garden,Josephine G. Dodd,4.2,11771,8,2016,Mystery
+Diary of a Lost Monk,Harrison Wong,3.6,26523,6,2013,Sci-Fi
+Labyrinth of Echoes,Helena Marin,4.3,22746,24,2015,Historical
+Raven's Alibi,Oliver Windham,4.5,4143,5,2015,Romance
+The Painted Ocean,Nathaniel Price,3.7,23645,23,2013,Non Fiction
+Reflections of You,Elias Edwards,4.4,4861,26,2010,Fiction
+Lament of the Blackbirds,Penelope Archer,4.1,10006,7,2010,Romance
+Hidden Among Roses,Benedict Cross,4.6,20104,21,2016,Thriller
+The Seventh Ward,Freya Summers,4.9,29722,33,2017,Children's Book
+Vanishing Light,Rebecca M. Hayes,4.7,28063,9,2011,Mystery
+Edge of the Storm,Elijah Thompson,4,10402,8,2013,Non Fiction
+Fragments of Time,Margaret Yates,3.8,5982,21,2009,Historical
+Beyond the Frontier,Daniel Vos,4.4,15571,22,2012,Children's Book
+Curse of the Crescent,James O'Leary,4.2,25100,14,2010,Sci-Fi
+Skeletons in Redwood Hall,Evelyn Brooks,4.3,11071,5,2011,Fiction
+Marigolds in December,Vanessa Liu,4.1,4435,32,2018,Romance
+Flickers of Hope,Jonathan H. Grant,4.5,28179,7,2018,Thriller
+Secrets of the Moon,David Bernstein,4.2,29065,15,2014,Mystery
+Amber Waves,Grace Zimmerman,3.7,6467,34,2019,Non Fiction
+Kingdom Under Siege,Eliza Carter,4.4,28117,24,2009,Fiction
+A Stolen Moment,Tania Delgado,4.2,12096,20,2015,Romance
+Betrayal in Whitechapel,Isaac Carmichael,4.8,19560,14,2019,Historical
+Empress of Ashes,Sophia Mendez,4.3,6836,10,2012,Fiction
+Twilight Over Berlin,Camilla K. Hall,4.6,25736,31,2017,Mystery
+Fragments in the Dust,Michael Clarke,3.8,21889,30,2018,Non Fiction
+Spirit of the Runes,Miriam Alvarez,4.9,26225,27,2010,Sci-Fi
+Moonrise Over Havana,Rebecca M. Hayes,4.1,14051,6,2015,Historical
+The Lost Patron,Jonathan H. Grant,4.2,1697,18,2013,Romance
+Bluebird's Serenade,Harvey Russell,4.4,28050,25,2011,Fiction
+Wickedly Yours,Felicia Rhodes,4.1,17759,22,2019,Thriller
+Chasing Horizons,Penelope Archer,4.5,25774,21,2014,Non Fiction
+Beneath Crimson Skies,Alice O'Donnell,3.7,5053,10,2016,Sci-Fi
+Defying Gravity,Josephine G. Dodd,4.2,24651,15,2011,Fiction
+Whispers of Malachite,Victor Greene,4.7,7334,5,2012,Mystery
+Portraits of Infinity,Amelia West,4.4,28140,7,2009,Non Fiction
+Threads of the Mind,Basil Townsend,3.9,9331,8,2015,Mystery
+Midnight Serenade,Lucas Henderson,4.6,10575,21,2010,Romance
+Harps of the Wind,Margaret Yates,4.1,23560,16,2011,Historical
+Deserted Promises,Grace Zimmerman,4.3,11746,33,2015,Children's Book
+A Journey in the Dark,Amelia West,4.5,29048,32,2016,Thriller
+Sands of Nostalgia,Dexter Moore,4.8,18349,31,2018,Fiction
+Mask of the Betrayed,Elias Edwards,3.6,4846,22,2013,Mystery
+Garden of Whispers,Nathaniel Price,4.1,20491,18,2017,Romance
+Resonance of the Heart,Sophia Mendez,4.2,27542,20,2011,Biography
+Amber River Rising,Harrison Wong,4.7,29308,13,2011,Fiction
+The Fifth Candle,Elizabeth French,4.4,16794,27,2012,Historical
+Storms of Yesterday,Michael Clarke,3.9,5984,19,2014,Non Fiction
+Whispers in the Fog,Helena Marin,4.6,13846,33,2013,Mystery
+Nightfall at Redwood,Freya Summers,4.1,10861,8,2015,Romance
+Out of the Ashes,Rebecca M. Hayes,4.2,24630,29,2019,Children's Book
+Faithful to the End,Harrison Wong,4.5,11525,17,2016,Mystery
+Eclipse of Eden,Lucas Henderson,3.6,5532,10,2014,Sci-Fi
+Broken Opus,Victor Greene,4.4,28743,12,2010,Non Fiction
+Finding Avalon,Sophia Mendez,4.1,26574,24,2015,Romance
+Scars of a Nation,Eliza Carter,4.2,20500,27,2016,Thriller
+Tremors at Twilight,Amelia West,4.5,29208,8,2018,Non Fiction
+Beyond Silent Seas,James O'Leary,4,17809,9,2009,Historical
+Tales from the Northern Sea,Stella Patterson,4.3,11627,31,2010,Romance
+Falling for June,Daniel Vos,4.7,20018,14,2017,Fiction
+Solaris Reborn,Harvey Russell,3.9,11531,7,2018,Sci-Fi
+Tempest Rising,Benedict Cross,4.1,24566,5,2013,Children's Book
+The Ivory Key,Julian Ngo,4.8,25345,25,2019,Mystery
+The Last Fortune Cookie,Gina Caldwell,4.6,19385,23,2011,Non Fiction
+Sylvan Dusk,Alice O'Donnell,3.7,1564,26,2012,Romance
+Threads of the Mind,David Bernstein,4.2,15399,7,2010,Historical
+Golden Horizons,Diego Atkins,4,11865,32,2017,Fiction
+Timberwolf's Lament,Ellen Vaughn,4.4,7646,10,2009,Thriller
+Mists of Atalanta,Vanessa Liu,4.7,18366,18,2014,Sci-Fi
+Fifty Colors of Autumn,Charlotte E. Jones,3.9,2524,28,2015,Romance
+Children of Andromeda,Oliver Windham,4.3,27450,15,2012,Children's Book
+Eternity's Gate,Lucas Henderson,4.1,7540,26,2012,Non Fiction
+The Crimson Harbour,Grace Zimmerman,4.8,11997,20,2014,Historical
+Tempest at Dusk,Daniel Vos,4.7,27910,7,2013,Fiction
+Blood and Snow,Elijah Thompson,3.5,10592,16,2017,Mystery
+Cascades of Silence,Margaret Yates,4.1,25601,21,2010,Thriller
+A Winter's Mercy,Michael Clarke,4.4,29643,34,2011,Romance
+Defying Tomorrow,Rebecca M. Hayes,4.2,25586,33,2013,Fiction
+Broken Lilies,Josephine G. Dodd,4.3,7206,30,2016,Mystery
+Searching for Eden,Nadia Loren,4,14010,29,2015,Children's Book
+Solstice of Dreams,Jonathan H. Grant,4.6,12531,9,2012,Romance
+The Altar of Redwood,Eliza Carter,3.8,22768,18,2016,Non Fiction
+Arrows at Sunset,Helen Rosales,4.1,11092,5,2009,Sci-Fi
+Falling for Grace,James O'Leary,4.7,28920,21,2018,Romance
+Harps of the Wind,Harrison Wong,3.9,27455,11,2014,Fiction
+Mirrors in the Mist,Eliza Carter,4.2,22027,30,2013,Mystery
+Vanishing Dawn,David Bernstein,4.1,14866,27,2017,Thriller
+Seeds of Andromeda,Freya Summers,4.5,17888,16,2018,Sci-Fi
+Forbidden Highlands,Michael Clarke,3.7,11336,5,2012,Romance
+The Ivory Key,Evelyn Brooks,4.3,1077,33,2015,Mystery
+Midnight in Bordeaux,Penelope Archer,4.6,8270,6,2012,Historical
+Lily of the Valley,Camille Poole,4,22026,9,2009,Non Fiction
+Beneath the Frozen Sea,Vanessa Liu,4.2,29271,5,2012,Romance
+A Painted Wilderness,Lucas Henderson,3.9,10050,16,2016,Mystery
+Falling for June,Emily Vaughn,4.7,20109,33,2014,Biography
+Host of the Hollow,Penelope Archer,4.5,5055,17,2013,Fiction
+Empress of Ashes,David Bernstein,4.1,12786,28,2018,Non Fiction
+Uncharted Paths,Eliza Carter,4,27472,25,2011,Children's Book
+Silver Moon Rising,Freya Summers,4.4,12277,24,2018,Romance
+Halcyon Descends,Victor Greene,3.6,29371,27,2010,Mystery
+Timberwolf's Lament,Tania Delgado,4.2,26058,6,2012,Thriller
+Pieces of Forever,Nathaniel Price,4.5,2123,13,2016,Fiction
+Agent in the Shadows,Grace Zimmerman,4.1,10332,26,2010,Romance
+Twilight Over Berlin,James O'Leary,4.3,9781,32,2011,Non Fiction
+The Painted Ocean,Penelope Archer,4.6,9523,8,2017,Children's Book
+Scars of a Nation,Harvey Russell,4.8,21160,21,2016,Historical
+Fortune's Price,Elias Edwards,3.9,13116,18,2015,Biography
+City of the Fallen,Amelia West,4.3,17199,12,2010,Fiction
+Cradle of Secrets,Victor Greene,4.2,9775,6,2009,Mystery
+Threads of Fate,Nadia Loren,4,29021,20,2016,Thriller
+Quest for Heliodor,Stella Patterson,4.5,18010,31,2012,Sci-Fi
+Broken Feathers,Helena Marin,4.3,6894,11,2012,Romance
+Wings of Destiny,Oliver Windham,4.1,24653,28,2017,Fiction
+Skeletons in Redwood Hall,Margaret Yates,4.4,9110,17,2019,Non Fiction
+The Painted Ocean,Vanessa Liu,4.9,5938,23,2013,Romance
+Timberwolf's Lament,Nathaniel Price,3.6,18048,33,2018,Historical
+Spiraling Threads,Sophia Mendez,4.5,4377,8,2013,Fiction
+Mystic Harbors,Daniel Vos,4.1,11311,9,2016,Mystery
+Return to Painted Vale,Rebecca M. Hayes,4.2,26563,30,2010,Romance
+Sunrise at Darlington,Freya Summers,4.7,11852,16,2015,Non Fiction
+Tempest Rising,Gabrielle Stone,3.9,6498,24,2011,Sci-Fi
+A Stolen Moment,Michael Clarke,4.3,13409,33,2015,Fiction
+Night of the Orion,Charlotte E. Jones,4,24851,20,2012,Children's Book
+Marigolds in December,Eliza Carter,4.2,20663,12,2013,Romance
+The Glass Garden,Harrison Wong,4.1,22213,34,2017,Mystery
+Breaking Waves,James O'Leary,4.6,8478,10,2016,Non Fiction
+Mercury's Daughter,Charlotte E. Jones,3.7,4153,7,2011,Romance
+Midnight in Bordeaux,Shawn Landry,4.4,20981,14,2009,Mystery
+Bluebird's Serenade,Penelope Archer,4.9,25563,22,2014,Historical
+Diary of a Lost Monk,Zoey Fisher,4.1,28986,33,2018,Fiction
+Defying Gravity,Ellen Vaughn,3.8,21318,28,2015,Mystery
+Winter's Mercy,Joseph L. Payne,4.3,21360,18,2012,Sci-Fi
+Cradle of Secrets,Camille Poole,4,27974,16,2019,Romance
+Tides of Vengeance,Elijah Thompson,4.1,8229,12,2011,Fiction
+The Ivory Key,Isabella Moore,4.4,10156,25,2014,Biography
+The Last Sunrise,Harrison Wong,4.8,22936,22,2017,Thriller
+Sands of Nostalgia,Camilla K. Hall,4.2,25756,5,2016,Romance
+Garden of Whispers,Gabrielle Stone,4.5,11966,27,2011,Mystery
+Crows at Midnight,Victor Greene,3.6,17105,18,2011,Sci-Fi
+Scars of a Nation,Daniel Vos,4.2,16551,20,2012,Fiction
+The Nightfall Treaty,Michael Clarke,4.6,24263,32,2019,Non Fiction
+Falling for June,Sophia Mendez,4,14041,24,2013,Romance
+Serpent's Passage,Nathaniel Price,4.1,24339,7,2009,Thriller
+Shadows of the Earth,Harvey Russell,3.9,7731,27,2016,Fiction
+A Gentle Storm,Josephine G. Dodd,4.5,28113,9,2011,Historical
+Amber Waves,Vanessa Liu,4.4,6862,33,2018,Biography
+Fragmented Tales,Freya Summers,4.1,29055,11,2012,Mystery
+Hearts in Lockdown,Evelyn Brooks,4.8,26564,8,2017,Romance
+Secrets of the Moon,James O'Leary,4.7,3920,29,2013,Non Fiction
+Eclipse of Eden,Eliza Carter,4.4,18693,28,2010,Thriller
+Harmonic Passages,Julian Ngo,3.5,26669,19,2015,Romance
+The Seventh Ward,Helena Marin,4.2,5153,9,2009,Fiction
+Skeletons in Redwood Hall,Helen Rosales,4.3,19828,13,2014,Historical
+Fragments of Time,Jonathan H. Grant,4.5,25097,25,2016,Mystery
+City of the Fallen,Penelope Archer,4.1,11793,31,2019,Non Fiction
+Uncharted Paths,Daniel Vos,4.2,21778,6,2015,Biography
+Fortune's Price,Isabella Moore,4.6,22979,23,2016,Mystery
+Marigolds in December,Michael Clarke,4.3,23926,16,2011,Fiction
+The Painted Ocean,Ellen Vaughn,3.9,28164,19,2014,Romance
+Children of Andromeda,Freya Summers,4.2,23218,28,2018,Sci-Fi
+Moonrise Over Havana,Elijah Thompson,4.7,4741,21,2012,Children's Book
+Threads of Fate,Grace Zimmerman,4.4,14577,22,2009,Thriller
+Curse of the Crescent,Nadia Loren,3.7,15372,5,2014,Mystery
+Mists of Atalanta,Shawn Landry,4.5,11624,27,2016,Romance
+Whispers in the Fog,Sophia Mendez,4.1,13592,8,2017,Fiction
+Florence's Tapestry,Helen Rosales,4,19848,10,2010,Non Fiction
+Mask of the Betrayed,Harvey Russell,4.2,29154,33,2011,Historical
+Time of the Fireflies,Tania Delgado,3.5,7050,16,2013,Mystery
+A Stolen Moment,Charlotte E. Jones,4.3,22784,31,2010,Biography
+Agent in the Shadows,Victor Greene,4.6,21004,15,2015,Romance
+The Lost Patron,Elias Edwards,4.4,22677,18,2017,Fiction
+Broken Opus,Lucas Henderson,3.9,12914,22,2018,Sci-Fi
+Secrets of the Moon,Camille Poole,4.1,8893,21,2013,Historical
+Winter's Mercy,Nico Tan,4.2,11778,33,2012,Mystery
+Harvest of Souls,Eliza Carter,4.7,28402,11,2019,Non Fiction
+Diary of a Lost Monk,Gabrielle Stone,4.5,17113,31,2017,Fiction
+The Blue Maze,Penelope Archer,3.8,16603,7,2010,Sci-Fi
+Tremors at Twilight,Eleanor Kelly,4.4,12409,32,2015,Mystery
+Florence's Tapestry,Helena Marin,3.7,29280,14,2018,Romance
+Kingdom Under Siege,Nadia Loren,4.3,20507,9,2017,Fiction
+Fragments of Time,Isabella Moore,4.1,19388,30,2012,Non Fiction
+Children of Andromeda,Sophia Mendez,4.8,28224,28,2009,Sci-Fi
+The Seventh Ward,Helen Rosales,4.6,26619,17,2015,Romance
+Midnight Serenade,Evelyn Brooks,4.3,22291,33,2018,Mystery
+Searching for Eden,Eliza Carter,4.2,5536,14,2016,Thriller
+Twilight Over Berlin,Daniel Vos,4.7,29685,27,2016,Fiction
+Blood and Snow,Victor Greene,3.9,14526,7,2011,Mystery
+Mists of Atalanta,Charlotte E. Jones,4.2,21921,6,2015,Biography
+Scars of a Nation,Helena Marin,4,24221,15,2013,Romance
+A Journey in the Dark,Harrison Wong,4.1,18039,21,2011,Historical
+Starlight's Embrace,Josephine G. Dodd,4.4,6252,24,2016,Sci-Fi
+The Ivory Key,Grace Zimmerman,4.5,7109,32,2014,Children's Book
+Hearts in Shadow,Freya Summers,4.2,10481,25,2015,Mystery
+Beyond Silent Seas,Amelia West,3.8,29830,19,2010,Non Fiction
+Shadow of Orion,David Bernstein,4.1,11564,27,2012,Historical
+Bluebird's Serenade,Nathaniel Price,4.6,17038,8,2014,Romance
+Eternity's Gate,Oliver Windham,3.9,12166,11,2017,Biography
+Agent in the Shadows,Daniel Vos,4.5,14399,18,2017,Thriller
+Threads of the Mind,Vanessa Liu,4.3,1842,15,2019,Fiction
+Skeletons in Redwood Hall,Sophia Mendez,4.7,13337,5,2016,Mystery
+Fragments in the Dust,Eliza Carter,4.1,27270,13,2009,Romance
+Winter's Mercy,Harrison Wong,4.6,9802,6,2014,Fiction
+Crypt of Glass,Gabrielle Stone,4.2,6582,32,2011,Sci-Fi
+Falling for June,Grace Zimmerman,4.8,1794,29,2015,Children's Book
+A Painted Wilderness,Helen Rosales,3.7,29459,14,2013,Mystery
+Blood in the Rose Garden,Joseph L. Payne,4,27321,21,2009,Thriller
+Night of the Orion,Helena Marin,4.3,18992,33,2016,Biography
+Secrets of the Moon,Charlotte E. Jones,4.1,11194,17,2018,Fiction
+Betrayal in Whitechapel,Harvey Russell,4.4,11909,20,2012,Mystery
+Spiraling Threads,Elias Edwards,4.7,28636,13,2011,Romance
+Vanishing Light,Michael Clarke,4.2,6131,30,2015,Historical
+The Glass Garden,Daniel Vos,4.1,7171,12,2016,Children's Book
+Tides of Vengeance,Sophia Mendez,3.9,23976,26,2019,Mystery
+Tempest Rising,Victor Greene,4.4,13027,23,2017,Thriller
+Silent Inheritance,Nathaniel Price,3.6,27436,11,2013,Sci-Fi
+The Painted Ocean,Basil Townsend,4.1,23692,14,2011,Non Fiction
+Lilacs in Summer,Penelope Archer,4.6,27620,18,2018,Romance
+The Seventh Ward,Margaret Yates,4.2,29751,29,2009,Mystery
+Dreams of the West,James O'Leary,4,11147,5,2014,Historical
+Fifty Colors of Autumn,Eliza Carter,4.3,13782,9,2017,Fiction
+Harps of the Wind,Harvey Russell,4.5,28177,17,2016,Non Fiction
+Twilight's Pilgrimage,Charlotte E. Jones,3.8,27510,31,2012,Mystery
+Cascades of Silence,Shawn Landry,4.1,25448,34,2019,Thriller
+Defying Gravity,Helen Rosales,4.3,11569,30,2011,Romance
+Beyond Silent Seas,Victor Greene,4.7,18027,14,2018,Fiction
+Labyrinth of Echoes,Freya Summers,4.4,11660,25,2016,Non Fiction
+Mists of Atalanta,Ellen Vaughn,4,14666,33,2017,Romance
+Eternity's Gate,Rebecca M. Hayes,4.8,17829,15,2012,Sci-Fi
+Harmonic Passages,Vanessa Liu,4.2,17522,27,2014,Thriller
+Return to Painted Vale,Harrison Wong,3.9,25699,24,2013,Mystery
+Sands of Nostalgia,Daniel Vos,4.3,9788,17,2015,Biography
+A Painted Wilderness,Sophia Mendez,4.1,17933,30,2016,Fiction
+Fragments in the Dust,Amelia West,3.7,11594,7,2012,Non Fiction
+City of the Fallen,Benedict Cross,4.4,10800,13,2009,Romance
+The Altar of Redwood,Freya Summers,4.2,10030,33,2018,Children's Book
+Lucid Horizons,Margaret Yates,3.8,11618,29,2013,Romance
+Diary of a Lost Monk,Michael Clarke,4.6,27091,16,2015,Mystery
+The Blue Maze,James O'Leary,3.5,4094,8,2011,Thriller
+Falling for Grace,Evelyn Brooks,4.2,29480,28,2013,Biography
+Spirit of the Runes,Helena Marin,4.9,5449,22,2014,Sci-Fi
+Agent in the Shadows,Isabella Moore,4.1,29520,30,2018,Fiction
+Fragile Kingdom,Grace Zimmerman,4.6,24388,34,2013,Romance
+Nightfall at Redwood,Alice O'Donnell,3.7,7501,26,2012,Historical
+Radiant Echoes,Amelia West,4.3,21405,6,2017,Mystery
+Moonrise Over Havana,Benedict Cross,4,14550,20,2015,Fiction
+Twilight Over Berlin,Evelyn Brooks,4.4,14479,11,2013,Sci-Fi
+Children of Andromeda,Tania Delgado,4.2,29098,29,2011,Non Fiction
+Curse of the Crescent,David Bernstein,4.8,23530,8,2017,Thriller
+Deserted Promises,Josephine G. Dodd,4.6,12800,21,2015,Fiction
+Wings of Destiny,Nadia Loren,4.1,6975,12,2012,Biography
+Night of the Orion,Harper Underwood,4.3,20522,15,2016,Mystery
+Tales from the Northern Sea,Oliver Windham,4.9,29922,32,2019,Children's Book
+Painted Feathers,Vanessa Liu,4.2,4590,5,2017,Historical
+Shadow of Orion,Penelope Archer,4,15749,30,2009,Romance
+Beneath Crimson Skies,James O'Leary,4.4,16815,16,2013,Fiction
+Bluebird's Serenade,Charlotte E. Jones,3.9,12392,24,2016,Non Fiction
+Marigolds in December,Joseph L. Payne,4.1,12245,31,2018,Mystery
+A Stolen Moment,Elenor Kelly,4.5,15386,9,2012,Romance
+Garden of Whispers,Harvey Russell,4.3,9343,26,2010,Fiction
+Hearts in Shadow,Daniel Vos,4,4173,5,2015,Historical
+Eclipse of Eden,Freya Summers,4.6,16578,20,2010,Biography
+The Painted Ocean,Evelyn Brooks,3.8,12720,33,2018,Mystery
+Mystic Harbors,Penelope Archer,4.4,9009,10,2009,Romance
+Broken Opus,Elias Edwards,4.1,8533,31,2011,Fiction
+Curse of the Crescent,Michael Clarke,4.2,16683,34,2014,Sci-Fi
+Fragments of Time,Vanessa Liu,4.5,22390,26,2016,Non Fiction
+Mirrors in the Mist,Victor Greene,3.9,1149,15,2012,Mystery
+Secret of the Redwood,Rebecca M. Hayes,4.1,7967,27,2016,Fiction
+Shadows of the Earth,Isabella Moore,4.4,27952,23,2012,Thriller
+Agent in the Shadows,Harrison Wong,4.3,24024,32,2018,Mystery
+Eternity's Gate,Harvey Russell,4.7,15770,13,2014,Romance
+Falling for June,Helen Rosales,4.1,28334,21,2009,Non Fiction
+Star of the Deep,Alice O'Donnell,4.2,10957,25,2011,Sci-Fi
+Timberwolf's Lament,Sophia Mendez,4,10298,7,2012,Romance
+Celestial Ember,James O'Leary,3.8,14375,16,2015,Children's Book
+Echoes of the Past,Elizabeth French,4.3,6748,20,2019,Mystery
+Out of the Ashes,Gabrielle Stone,4.6,9512,14,2010,Romance
+Marigolds in December,Elena Freedman,4.1,27355,27,2014,Historical
+The Painted Ocean,Dexter Moore,3.9,14954,22,2011,Fiction
+Fortune's Price,Charlotte E. Jones,4.5,25105,19,2018,Mystery
+The Glass Garden,Shawn Landry,4.8,29637,10,2016,Biography
+Spiraling Threads,Freya Summers,4.2,12980,24,2015,Non Fiction
+Golden Horizons,Michael Clarke,4.3,19932,5,2009,Mystery
+Crows at Midnight,Benedict Cross,4.1,18105,16,2016,Historical
+Edge of the Storm,Eliza Carter,4.4,12394,26,2012,Romance
+Diary of a Lost Monk,Isabella Moore,3.7,17071,6,2017,Fiction
+Ocean of Secrets,Emily Vaughn,4.9,12716,34,2019,Sci-Fi
+Harvest of Souls,Penelope Archer,4.2,9183,12,2014,Children's Book
+Reflections of You,Helena Marin,4,29187,8,2009,Romance
+Tempest Rising,Evelyn Brooks,4.6,10220,33,2018,Non Fiction
+Raven's Alibi,Victor Greene,4.1,7264,7,2016,Biography
+Silken Tempest,Daniel Vos,4.3,18691,13,2011,Romance
+Midnight Serenade,Helen Rosales,4.5,15221,10,2010,Thriller
+Defying Gravity,Basil Townsend,3.8,11092,31,2014,Sci-Fi
+Uncharted Paths,Harrison Wong,4,26596,8,2010,Children's Book
+Betrayal in Whitechapel,Margaret Yates,4.3,5723,17,2017,Fiction
+Tales from the Northern Sea,Rebecca M. Hayes,4.2,12728,33,2013,Historical
+Spirit of the Runes,Sophia Mendez,4.1,20089,15,2011,Mystery
+Revelations at Dawn,Nathaniel Price,3.9,22065,26,2018,Non Fiction
+Wickedly Yours,Freya Summers,4.5,5992,29,2019,Romance
+Lilacs in Summer,Vanessa Liu,4.1,16099,32,2012,Children's Book
+Twilight's Pilgrimage,Charlotte E. Jones,4.4,12443,27,2015,Fiction
+Crypt of Glass,Benedict Cross,3.7,26082,8,2019,Sci-Fi
+Defying Tomorrow,Victor Greene,4.2,13043,18,2010,Romance
+Hearts in Lockdown,Josephine G. Dodd,4,18000,28,2013,Mystery
+Secrets of the Moon,Rebecca M. Hayes,4.7,17902,33,2016,Thriller
+Mists of Atalanta,Eliza Carter,4.5,12771,31,2011,Fiction
+Blood in the Rose Garden,Daniel Vos,4.1,22768,12,2019,Historical
+Moonrise Over Havana,Grace Zimmerman,4.3,5481,6,2016,Romance
+Curse of the Crescent,Sophia Mendez,3.6,13014,20,2015,Children's Book
+Echoes of the Past,Margaret Yates,4.2,19393,7,2018,Mystery
+City of the Fallen,Nadia Loren,4,5554,34,2009,Biography
+Timberwolf's Lament,Elijah Thompson,4.1,17962,5,2011,Non Fiction
+Fragments in the Dust,Vanessa Liu,4.4,27730,10,2017,Thriller
+Portraits of Infinity,Michael Clarke,3.9,27721,21,2011,Romance
+Cascades of Silence,Josephine G. Dodd,4.8,11431,24,2016,Fiction
+Reflections of You,Benedict Cross,4.3,4988,27,2010,Children's Book
+Defying Gravity,Gina Caldwell,3.7,14577,25,2013,Mystery
+Labyrinth of Echoes,Freya Summers,4.1,9689,6,2015,Historical
+Mists of Atalanta,Harvey Russell,4.2,16823,8,2019,Romance
+Deserted Promises,Penelope Archer,4,28918,29,2012,Fiction
+Spiraling Threads,Elias Edwards,4.3,7143,21,2011,Mystery
+The Glass Garden,Amelia West,4.7,15472,11,2017,Biography
+Masks of Dusk,Victor Greene,3.8,29007,22,2013,Sci-Fi
+Flickers of Hope,Nathaniel Price,4.6,5948,10,2016,Romance
+Children of Andromeda,Eliza Carter,4.4,14677,5,2018,Historical
+Vanishing Light,James O'Leary,4.3,19322,30,2010,Thriller
+Shadows of the Earth,Joseph L. Payne,4.8,19676,9,2010,Fiction
+Whispers of Malachite,Rebecca M. Hayes,4.2,7450,13,2015,Romance
+Fragments of Time,Charlotte E. Jones,4.1,24968,21,2013,Mystery
+Resonance of the Heart,Evelyn Brooks,4.4,16041,14,2012,Non Fiction
+Raven's Alibi,Freya Summers,4.7,25116,26,2014,Historical
+Bluebird's Serenade,Isabella Moore,4.5,18155,28,2019,Romance
+Blood and Snow,Sophia Mendez,3.8,12766,19,2018,Mystery
+Children of Andromeda,Helen Rosales,4.3,25096,24,2009,Sci-Fi
+The Painted Ocean,Gabrielle Stone,4.2,17695,6,2014,Biography
+Tides of Vengeance,Helena Marin,4.6,3019,31,2011,Mystery
+A Winter's Mercy,Harper Underwood,3.9,23080,16,2019,Fiction
+Falling for Grace,Basil Townsend,4,25182,26,2013,Romance
+The Ivory Key,Daniel Vos,4.5,15886,34,2016,Thriller
+Bluebird's Serenade,Elena Freedman,4.1,9855,5,2010,Children's Book
+Defying Tomorrow,Nico Tan,4.4,29124,21,2013,Fiction
+Timberwolf's Lament,Camilla K. Hall,3.7,24463,16,2011,Non Fiction
+Shadows of the Earth,Evelyn Brooks,4.3,22437,8,2014,Sci-Fi
+Uncharted Paths,Josephine G. Dodd,3.8,13826,13,2018,Mystery
+Seeds of Andromeda,Oliver Windham,4.1,24884,12,2015,Children's Book
+Crows at Midnight,Harvey Russell,4.4,22225,19,2011,Historical
+Scars of a Nation,Grace Zimmerman,4.2,22000,30,2012,Fiction
+The Seventh Ward,Michael Clarke,4.3,7895,6,2016,Thriller
+Spirit of the Runes,Basil Townsend,4.5,16036,5,2013,Romance
+Broken Opus,Amelia West,4.1,8743,11,2019,Sci-Fi
+The Last Sunrise,James O'Leary,4,28657,25,2014,Non Fiction
+Twilight's Pilgrimage,Helena Marin,4.3,13725,8,2010,Historical
+Cradle of Secrets,Freya Summers,4.7,22011,31,2011,Mystery
+Defying Gravity,Vanessa Liu,4.1,4524,34,2012,Romance
+Mystic Harbors,Penelope Archer,4.2,3003,9,2016,Non Fiction
+Shadow of Orion,Nadia Loren,4,13050,28,2012,Sci-Fi
+The Painted Ocean,Isabella Moore,4.8,21266,16,2016,Fiction
+Skeletons in Redwood Hall,Elena Freedman,4.1,14759,24,2014,Children's Book
+A Journey in the Dark,Victor Greene,4.2,7436,21,2013,Historical
+Secrets of the Moon,Basil Townsend,3.7,18903,13,2015,Thriller
+Empress of Ashes,James O'Leary,4.3,4437,32,2010,Biography
+Quest for Heliodor,Michael Clarke,4.9,8035,16,2017,Sci-Fi
+Edge of the Storm,Freya Summers,4.5,22903,20,2012,Mystery
+Vanishing Light,Nico Tan,4.2,5874,28,2016,Fiction
+Shadows of the Earth,Nathaniel Price,3.9,21647,21,2015,Romance
+Whispers of Malachite,Elias Edwards,4.6,25693,25,2016,Mystery
+Betrayal in Whitechapel,Harvey Russell,4.1,29852,15,2018,Fiction
+Shadows of the Earth,Helena Marin,4.2,17312,10,2009,Non Fiction
+Beyond Silent Seas,Eliza Carter,4.3,5102,9,2019,Romance
+Empress of Ashes,Alice O'Donnell,3.7,21581,30,2011,Mystery
+Defying Tomorrow,Sophia Mendez,4.4,18760,14,2014,Fiction
+Solstice of Dreams,James O'Leary,4.8,13914,34,2018,Thriller
+Secrets of the Moon,Amelia West,4.6,26328,20,2012,Non Fiction
+Agent in the Shadows,Vanessa Liu,3.9,19754,13,2016,Sci-Fi
+Blood in the Rose Garden,Grace Zimmerman,4,19811,16,2017,Fiction
+Out of the Ashes,Harvey Russell,4.5,7444,30,2015,Biography
+Curse of the Crescent,Nadia Loren,4.2,5421,18,2013,Thriller
+Wickedly Yours,Michael Clarke,4.1,18772,23,2019,Romance
+Cascades of Silence,Elias Edwards,4.7,24544,11,2011,Children's Book
+Painted Feathers,Freya Summers,4.4,12290,26,2014,Fiction
+Fragments in the Dust,Nico Tan,3.6,22143,27,2011,Mystery
+Labyrinth of Echoes,Eliza Carter,4.2,8357,33,2018,Sci-Fi
+Sands of Nostalgia,Helena Marin,4.1,18699,6,2012,Biography
+Spirit of the Runes,Amelia West,4.5,10348,30,2017,Romance
+Defying Gravity,Daniel Vos,4.3,24263,17,2010,Historical
+Moonrise Over Havana,Elias Edwards,3.9,29020,28,2012,Children's Book
+Silver Moon Rising,Alice O'Donnell,4.1,8582,25,2019,Non Fiction
+Winter's Mercy,Josephine G. Dodd,4.6,8914,24,2014,Thriller
+The Lost Patron,Victor Greene,4.4,15994,18,2011,Mystery
+Florence's Tapestry,Helena Marin,4.1,9348,20,2016,Fiction
+Blood and Snow,Tania Delgado,3.8,17493,27,2013,Mystery
+Scars of a Nation,Harrison Wong,4.5,29177,30,2014,Romance
+Agent in the Shadows,Margaret Yates,4.7,6507,31,2012,Biography
+Nightfall at Redwood,Sophia Mendez,4.2,4426,13,2019,Sci-Fi
+Twilight Over Berlin,Freya Summers,4,4052,19,2018,Children's Book
+The Seventh Ward,Gabrielle Stone,4.1,20048,25,2015,Romance
+Hearts in Lockdown,Elias Edwards,4.4,24909,33,2014,Mystery
+Celestial Ember,James O'Leary,4.8,2035,9,2009,Fiction
+Whispers of Malachite,Eliza Carter,4.3,26928,20,2010,Romance
+Garden of Whispers,Daniel Vos,4.1,4433,16,2013,Historical
+Mists of Atalanta,Charlotte E. Jones,3.9,16349,27,2016,Sci-Fi
+Timberwolf's Lament,Harvey Russell,4.2,17662,12,2010,Romance
+Echoes of the Past,Basil Townsend,4.1,10655,5,2015,Mystery
+Fragments of Time,Tania Delgado,4.7,12376,9,2012,Fiction
+Labyrinth of Echoes,Josephine G. Dodd,4.4,11342,34,2011,Historical
+Faithful to the End,Vanessa Liu,3.7,28391,21,2017,Romance
+Sands of Nostalgia,Rebecca M. Hayes,4.2,14501,17,2009,Non Fiction
+Beyond Silent Seas,Freya Summers,4.3,14876,29,2011,Children's Book
+A Painted Wilderness,Helen Rosales,4.5,9661,23,2016,Thriller
+Crows at Midnight,Isabella Moore,3.6,20936,10,2012,Fiction
+Raven's Alibi,Michael Clarke,4.8,23989,9,2015,Mystery
+Hearts in Lockdown,Ellen Vaughn,4.4,23286,28,2019,Romance
+Mists of Atalanta,Nathaniel Price,4.1,26815,15,2017,Historical
+The Ivory Key,Victor Greene,4.2,6103,21,2018,Sci-Fi
+Mercury's Daughter,Vanessa Liu,4.6,19808,18,2013,Biography
+Threads of Fate,Harvey Russell,4,5209,14,2011,Mystery
+Midnight Serenade,James O'Leary,4.2,28691,31,2009,Romance
+Shadows of the Earth,Penelope Archer,4.3,15456,16,2017,Children's Book
+Marigolds in December,Elijah Thompson,4.5,19456,30,2016,Fiction
+Wickedly Yours,Grace Zimmerman,3.8,20519,28,2015,Mystery
+Fragments in the Dust,Basil Townsend,4.4,6182,24,2012,Romance
+Echoes of the Past,Eliza Carter,4.2,25006,27,2019,Non Fiction
+Hearts in Shadow,Sophia Mendez,4.3,12946,20,2012,Historical
+Twilight's Pilgrimage,Harrison Wong,4.5,12584,13,2018,Biography
+Night of the Orion,Helena Marin,3.9,22914,6,2016,Mystery
+Garden of Whispers,Gabrielle Stone,4.1,28044,16,2009,Romance
+Lilacs in Summer,Evelyn Brooks,4.6,14407,28,2017,Fiction
+Kingdom Under Siege,Elena Freedman,4,28331,5,2013,Mystery
+Vanishing Light,James O'Leary,4.2,15505,29,2011,Non Fiction
+Defying Tomorrow,Freya Summers,3.8,15321,25,2015,Sci-Fi
+Fortune's Price,Daniel Vos,4.3,9175,12,2014,Fiction
+The Painted Ocean,Helena Marin,4.1,23897,21,2018,Romance
+Quest for Heliodor,Penelope Archer,4.7,14876,7,2009,Mystery
+Winter's Mercy,Sophia Mendez,4.4,22634,25,2019,Biography
+Blood in the Rose Garden,Josephine G. Dodd,3.6,13268,29,2013,Sci-Fi
+Wings of Destiny,Amelia West,4.1,5091,20,2012,Romance
+Shadow of Orion,Victor Greene,4.5,10261,6,2011,Fiction
+Return to Painted Vale,Helen Rosales,4.2,17536,27,2010,Mystery
+A Painted Wilderness,Elias Edwards,4,10573,31,2012,Non Fiction
+Broken Opus,Freya Summers,4.2,22642,9,2017,Romance
+Tremors at Twilight,Elena Freedman,3.6,15825,7,2014,Mystery
+Beyond Silent Seas,Basil Townsend,4.3,16889,34,2019,Fiction
+A Winter's Mercy,Rebecca M. Hayes,4.1,14001,28,2010,Romance
+Tales from the Northern Sea,Harrison Wong,4.4,24584,15,2011,Children's Book
+Diary of a Lost Monk,Charlotte E. Jones,3.9,11294,32,2015,Romance
+Midnight Serenade,Evelyn Brooks,4.2,29127,11,2016,Mystery
+Agent in the Shadows,James O'Leary,4.1,14732,14,2014,Fiction
+Whispers of Malachite,Josephine G. Dodd,4.8,23573,6,2010,Romance
+Labyrinth of Echoes,Vanessa Liu,4.4,22178,17,2019,Mystery
+Defying Gravity,Nadia Loren,4.2,25944,26,2009,Thriller
+Secrets of the Moon,Harvey Russell,4.1,9059,19,2011,Sci-Fi
+Cradle of Secrets,Tania Delgado,4.7,23824,29,2018,Non Fiction
+Spiraling Threads,Penelope Archer,4.9,7343,15,2014,Biography
+Tempest Rising,Ellen Vaughn,4.5,23742,24,2012,Mystery
+Marigolds in December,Michael Clarke,4.2,23636,13,2011,Romance
+Threads of Fate,Gabrielle Stone,4.1,15395,7,2018,Fiction
+Moonrise Over Havana,Isabella Moore,3.7,19779,33,2013,Sci-Fi
+Florence's Tapestry,Daniel Vos,4.6,14908,5,2015,Romance
+Bluebird's Serenade,Harrison Wong,4.4,12217,19,2012,Biography
+Silent Inheritance,Elias Edwards,4.3,15338,30,2017,Non Fiction
+Pieces of Forever,Margaret Yates,3.8,12352,8,2016,Romance
+Lilacs in Summer,Joseph L. Payne,4.1,25752,28,2010,Fiction
+Amber Waves,Eliza Carter,4.7,11523,18,2011,Mystery
+Kingdom Under Siege,Helen Rosales,4,15905,26,2014,Thriller
+Spirit of the Runes,Victor Greene,4.4,29406,13,2019,Sci-Fi
+Scars of a Nation,Vanessa Liu,3.9,12050,27,2012,Biography
+Midnight in Bordeaux,Freya Summers,4.2,20957,5,2018,Romance
+Nightfall at Redwood,Michael Clarke,4.5,15401,29,2016,Mystery
+Wickedly Yours,Harrison Wong,4.3,13100,20,2010,Biography
+Soul of the Deep,Charlotte E. Jones,4.6,9967,14,2013,Fiction
+Garden of Whispers,Sophia Mendez,4.1,12868,11,2015,Historical
+Defying Tomorrow,Josephine G. Dodd,4.2,21375,30,2013,Sci-Fi
+Marigolds in December,James O'Leary,4.4,23274,10,2010,Fiction
+Betrayal in Whitechapel,Ellen Vaughn,3.7,15982,33,2017,Mystery
+Dreams of the West,Helen Rosales,4.1,14819,31,2019,Romance
+Flickers of Hope,Elena Freedman,4.2,19217,12,2009,Non Fiction
+Starlight's Embrace,Nathaniel Price,4.5,16386,33,2018,Sci-Fi
+A Gentle Storm,Evelyn Brooks,4.1,18175,16,2015,Fiction
+Tempest at Dusk,Daniel Vos,3.9,29140,8,2012,Children's Book
+Broken Opus,Penelope Archer,4.2,17631,6,2017,Mystery
+Spirit of the Runes,Freya Summers,4.6,22370,14,2014,Thriller
+Return to Painted Vale,Basil Townsend,4,7087,26,2009,Romance
+Vanishing Light,Gabrielle Stone,4.3,7692,5,2018,Biography
+The Blue Maze,Isabella Moore,4.5,5485,33,2017,Fiction
+The Seventh Ward,Michael Clarke,4.2,25207,15,2012,Mystery
+Amber Waves,Daniel Vos,3.6,26530,21,2013,Non Fiction
+Beneath the Frozen Sea,Harvey Russell,4.1,21413,11,2015,Fiction
+Moonrise Over Havana,Eliza Carter,4.4,8711,8,2014,Historical
+Serpent's Passage,Helena Marin,4.2,29005,26,2018,Thriller
+Hearts in Lockdown,Benedict Cross,3.9,22978,20,2017,Romance
+Beyond Silent Seas,Gabrielle Stone,4.3,3275,10,2010,Mystery
+Spiraling Threads,James O'Leary,4.6,18191,24,2011,Children's Book
+Blood and Snow,Helen Rosales,4,26948,18,2019,Sci-Fi
+Silken Tempest,David Bernstein,4.1,29580,12,2015,Fiction
+Flickers of Hope,Freya Summers,3.8,6942,19,2018,Mystery
+Winter's Mercy,Sophia Mendez,4.4,23132,23,2012,Romance
+Eternity's Gate,Josephine G. Dodd,4.1,20194,34,2013,Non Fiction
+Edge of the Storm,Amelia West,4.7,23631,5,2009,Thriller
+Broken Feathers,Victor Greene,4.2,14762,16,2016,Fiction
+Fragments in the Dust,Elena Freedman,4.3,6513,12,2015,Historical
+Lilacs in Summer,Tania Delgado,4,17980,15,2019,Romance
+Portal to Nowhere,Nico Tan,4.1,29406,31,2011,Sci-Fi
+Twilight Over Berlin,Harrison Wong,3.7,5863,20,2012,Mystery
+Scars of a Nation,Ellen Vaughn,4.5,29886,9,2012,Biography
+Seeds of Andromeda,Basil Townsend,4.1,21260,19,2013,Sci-Fi
+Faithful to the End,Josephine G. Dodd,4.2,17179,6,2017,Fiction
+Garden of Whispers,Victor Greene,3.9,12762,25,2011,Romance
+Beneath Crimson Skies,Charlotte E. Jones,4.4,24172,34,2013,Mystery
+Hearts in Shadow,Margaret Yates,4.1,15132,18,2018,Historical
+Whispers in the Fog,Elijah Thompson,4.8,6153,24,2010,Children's Book
+Lament of the Blackbirds,Harvey Russell,4.2,7726,15,2019,Mystery
+Shadows of the Earth,Sophia Mendez,4,17257,28,2015,Romance
+Moonrise Over Havana,Michael Clarke,4.3,14901,29,2011,Fiction
+Twilight's Pilgrimage,Vanessa Liu,4.4,10743,10,2017,Thriller
+Diary of a Lost Monk,Nadia Loren,4.2,10295,22,2013,Fiction
+Curse of the Crescent,Helena Marin,4.6,23578,30,2015,Historical
+Solstice of Dreams,Harrison Wong,4.1,4437,12,2014,Children's Book
+Winter's Mercy,Charlotte E. Jones,4.3,18793,25,2009,Biography
+Blood in the Rose Garden,Elenor Kelly,4.4,17615,8,2016,Mystery
+Marigolds in December,James O'Leary,4.2,16825,28,2018,Fiction
+Echoes of the Past,Elias Edwards,4.1,24535,9,2010,Non Fiction
+Serpent's Passage,Freya Summers,4.5,16871,21,2019,Romance
+Mercury's Daughter,Amelia West,3.9,28905,5,2011,Mystery
+Shadow of Orion,Nathaniel Price,4.4,26609,6,2014,Sci-Fi
+A Painted Wilderness,Harvey Russell,4.1,9087,20,2019,Romance
+Labyrinth of Echoes,Isabella Moore,4.2,18145,10,2016,Mystery
+Broken Opus,Eliza Carter,4.5,25590,17,2018,Biography
+Timberwolf's Lament,David Bernstein,4.3,4998,28,2010,Fiction
+Betrayal in Whitechapel,Freya Summers,4.2,18061,9,2012,Mystery
+Portraits of Infinity,Helena Marin,4.7,4909,21,2014,Fiction
+Twilight Over Berlin,Victor Greene,3.9,23710,25,2019,Mystery
+Blood and Snow,Helen Rosales,4.3,28832,11,2016,Romance
+Fragments in the Dust,Charlotte E. Jones,4,7482,15,2011,Fiction
+Resonance of the Heart,Grace Zimmerman,4.2,9106,23,2012,Non Fiction
+Wickedly Yours,Josephine G. Dodd,4.6,22589,30,2015,Thriller
+Threads of the Mind,Nadia Loren,4.1,2662,12,2018,Mystery
+Defying Gravity,James O'Leary,4.3,18513,25,2010,Romance
+Hearts in Lockdown,Daniel Vos,4,19630,8,2016,Children's Book
+Tremors at Twilight,Charlotte E. Jones,4.2,19473,15,2019,Biography
+Timberwolf's Lament,Amelia West,4.6,15679,11,2012,Non Fiction
+Curse of the Crescent,Penelope Archer,3.9,6643,27,2013,Sci-Fi
+Mirror of Ages,Helen Rosales,4.4,10165,20,2014,Fiction
+Empress of Ashes,Margaret Yates,4.1,6722,22,2018,Historical
+Defying Tomorrow,Eliza Carter,4.5,19874,34,2017,Romance
+Diary of a Lost Monk,Michael Clarke,4,13554,18,2010,Mystery
+Agent in the Shadows,Harrison Wong,4.3,22774,31,2016,Fiction
+Falling for June,James O'Leary,4.2,14776,30,2017,Romance
+Moonrise Over Havana,Ellen Vaughn,3.7,10766,10,2018,Mystery
+Threads of Fate,Benedict Cross,4.4,21569,5,2014,Historical
+The Seventh Ward,Freya Summers,4.6,6493,24,2011,Sci-Fi
+Nightfall at Redwood,Vanessa Liu,4.3,12779,28,2015,Biography
+Winter's Mercy,Nathaniel Price,4,5821,9,2013,Romance
+Broken Opus,Penelope Archer,3.8,9942,32,2012,Children's Book
+Marigolds in December,Isabella Moore,4.2,11468,5,2009,Mystery
+Shadows of the Earth,Gabrielle Stone,4.5,11634,14,2018,Historical
+Spiraling Threads,Josephine G. Dodd,4.1,20280,30,2015,Fiction
+Faithful to the End,Michael Clarke,4.6,13171,16,2013,Mystery
+Vanishing Light,Nico Tan,4.2,25308,25,2017,Romance
+Tremors at Twilight,Elenor Kelly,3.7,28885,22,2019,Non Fiction
+Shadows of the Earth,Ellen Vaughn,4.3,8148,21,2009,Romance
+Return to Painted Vale,Daniel Vos,4.1,22704,31,2014,Fiction
+Lament of the Blackbirds,Charlotte E. Jones,4.7,6267,13,2016,Children's Book
+Hearts in Lockdown,Harvey Russell,4.4,9033,24,2011,Thriller
+Agent in the Shadows,Basil Townsend,4,28242,8,2015,Mystery
+Blood in the Rose Garden,Freya Summers,4.2,15414,25,2019,Fiction
+Spiraling Threads,Vanessa Liu,3.9,27636,19,2012,Romance
+Sands of Nostalgia,Elias Edwards,4.4,15324,32,2013,Historical
+Shadow of Orion,Nathaniel Price,4.1,19013,26,2009,Non Fiction
+Moonrise Over Havana,Tania Delgado,4.7,22628,34,2010,Sci-Fi
+Wings of Destiny,Helen Rosales,4.3,15003,21,2015,Romance
+Garden of Whispers,Penelope Archer,4.1,21939,24,2018,Mystery
+Mask of the Betrayed,Gabrielle Stone,4.6,24273,15,2012,Thriller
+Kingdom Under Siege,Elias Edwards,4.2,10614,16,2011,Fiction
+Diary of a Lost Monk,Shawn Landry,3.9,6030,31,2019,Romance
+Mists of Atalanta,Michael Clarke,4.5,6936,20,2014,Mystery
+Labyrinth of Echoes,Elijah Thompson,4.1,16473,28,2015,Non Fiction
+Curse of the Crescent,Joseph L. Payne,4.2,15723,33,2017,Thriller
+Shadows of the Earth,Charlotte E. Jones,4,23057,6,2016,Fiction
+The Painted Ocean,Elias Edwards,4.1,2288,9,2011,Romance
+Winter's Mercy,Camilla K. Hall,4.4,29932,27,2013,Children's Book
+Golden Horizons,Freya Summers,3.7,29412,9,2019,Romance
+Spiraling Threads,Ellen Vaughn,4,14760,19,2017,Mystery
+Fortune's Price,Nadia Loren,4.3,27502,8,2012,Sci-Fi
+A Stolen Moment,Benedict Cross,4.5,7581,13,2014,Historical
+Eternity's Gate,James O'Leary,4.2,16263,33,2011,Non Fiction
+Radiant Echoes,Vanessa Liu,4.1,26036,20,2018,Mystery
+Uncharted Paths,Elena Freedman,3.9,22909,17,2012,Romance
+Marigolds in December,David Bernstein,4,8664,26,2015,Fiction
+Solstice of Dreams,Harvey Russell,4.3,9704,10,2019,Mystery
+Night of the Orion,Charlotte E. Jones,4.7,29037,21,2013,Children's Book
+Cradle of Secrets,Michael Clarke,4.5,21055,12,2012,Romance
+Hearts in Shadow,Basil Townsend,4.2,20403,32,2014,Biography
+Mirrors in the Mist,Eliza Carter,4,11803,28,2015,Thriller
+Tides of Vengeance,Penelope Archer,4.3,14878,9,2018,Fiction
+Silver Moon Rising,Freya Summers,3.6,27094,34,2010,Mystery
+Timberwolf's Lament,Helen Rosales,4.1,23967,25,2011,Romance
+Eclipse of Eden,Nathaniel Price,4.8,21124,10,2013,Non Fiction
+Starlight's Embrace,Harvey Russell,4.2,20180,12,2017,Sci-Fi
+Reflections of You,Charlotte E. Jones,4.7,14065,15,2012,Mystery
+Bluebird's Serenade,Elena Freedman,4.4,19418,18,2016,Romance
+The Glass Garden,Victor Greene,3.8,24981,10,2011,Fiction
+Flickers of Hope,Benedict Cross,4.1,6169,8,2015,Mystery
+Lament of the Blackbirds,Helena Marin,4.5,11940,29,2016,Thriller
+A Journey in the Dark,Isabella Moore,4.3,29506,7,2019,Fiction

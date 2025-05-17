@@ -1,0 +1,33 @@
+{
+  "name": "book-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@copilotkit/react-core": "^1.8.11",
+    "@copilotkit/react-textarea": "^1.8.11",
+    "@copilotkit/react-ui": "^1.8.11",
+    "@reduxjs/toolkit": "^2.8.1",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "groq-sdk": "^0.21.0",
+    "mongoose": "^8.14.2",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/mongoose": "^5.11.97",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4"
+  }
+}
