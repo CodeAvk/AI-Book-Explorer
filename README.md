@@ -1,8 +1,5 @@
 AI Book Explorer
-<div align="center">
-  <img src="/api/placeholder/600/300" alt="AI Book Explorer Logo">
-  <h3>Discover books intelligently</h3>
-</div>
+
 🚀 Overview
 AI Book Explorer is an intelligent book recommendation system that leverages artificial intelligence to help users discover new books based on their preferences, reading history, and specific interests. This project combines natural language processing, machine learning, and a user-friendly interface to create a personalized book discovery experience.
 ✨ Features
