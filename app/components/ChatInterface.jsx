@@ -1,11 +1,14 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useAppDispatch, useAppSelector } from "../lib/redux/store";
 import { addBook, setBooks } from "../lib/redux/bookSlice";
 
 export default function ChatInterface() {
   const dispatch = useAppDispatch();
   const books = useAppSelector((state) => state.books.books);
+
+  // Create a ref for the chat messages container
+  const messagesEndRef = useRef(null);
 
   const [isMounted, setIsMounted] = useState(false);
   const [message, setMessage] = useState("");
@@ -36,6 +39,15 @@ export default function ChatInterface() {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterGenre, setFilterGenre] = useState("All");
   const [showBookList, setShowBookList] = useState(false);
+
+  // Scroll to bottom whenever chat history changes
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  useEffect(() => {
+    scrollToBottom();
+  }, [chatHistory]);
 
   useEffect(() => {
     setIsMounted(true);
@@ -90,7 +102,8 @@ export default function ChatInterface() {
     const viewDetailsMatch =
       userMsg.match(/view details for ["'](.+?)["']/i) ||
       userMsg.match(/details (of|for|about) ["'](.+?)["']/i) ||
-      userMsg.match(/show me ["'](.+?)["']/i);
+      userMsg.match(/show me ["'](.+?)["']/i) ||
+      userMsg.match(/view details for (.+)/i); // Added this pattern to match without quotes
 
     if (viewDetailsMatch) {
       const bookTitle = viewDetailsMatch[1] || viewDetailsMatch[2];
@@ -114,6 +127,18 @@ export default function ChatInterface() {
 
         setTimeout(() => {
           setChatHistory((prev) => [...prev, response]);
+        }, 500);
+        return;
+      } else {
+        // Book not found response
+        setTimeout(() => {
+          setChatHistory((prev) => [
+            ...prev,
+            {
+              role: "assistant",
+              content: `I couldn't find a book with the title "${bookTitle}". Please check the title and try again.`,
+            },
+          ]);
         }, 500);
         return;
       }
@@ -612,6 +637,8 @@ export default function ChatInterface() {
             </div>
           </div>
         ))}
+        {/* Invisible element to scroll into view */}
+        <div ref={messagesEndRef} />
       </div>
 
       {/* Quick action buttons */}
