@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+AI Book Explorer
+<div align="center">
+  <img src="/api/placeholder/600/300" alt="AI Book Explorer Logo">
+  <h3>Discover books intelligently</h3>
+</div>
+🚀 Overview
+AI Book Explorer is an intelligent book recommendation system that leverages artificial intelligence to help users discover new books based on their preferences, reading history, and specific interests. This project combines natural language processing, machine learning, and a user-friendly interface to create a personalized book discovery experience.
+✨ Features
 
-## Getting Started
+Smart Recommendations: Get personalized book suggestions based on your reading preferences
+Natural Language Search: Find books using conversational queries
+Book Insights: Discover key themes, topics, and writing styles of books
+Reading Lists: Create and manage custom reading lists
+Integration: Connect with popular book platforms and e-readers
 
-First, run the development server:
+🛠️ Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tailwind CSS for styling
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Redux or Redux Toolkit for state management
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Database (your choice: SQLite, PostgreSQL, MongoDB, etc.)
 
-## Learn More
+LangGraph + CopilotKit for AI chat integration
 
-To learn more about Next.js, take a look at the following resources:
+LLM (your choice: but recommend to use free API from Groq) — free API setup instructions below
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📋 Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Clone the repository:
+bashgit clone https://github.com/CodeAvk/AI-Book-Explorer.git
+cd AI-Book-Explorer
 
-## Deploy on Vercel
+Install dependencies:
+bashnpm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Set up environment variables:
+bashcp .env.example .env
+Edit .env with your API keys and configuration()
+Start the development server:
+bashnpm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open http://localhost:3000 to view the application in your browser
+
+🧠 AI Models
+The project uses several AI models to power its features:
+
+Recommendation Engine: Collaborative filtering and content-based recommendation
+Text Analysis: NLP models for understanding book descriptions and user queries
+Sentiment Analysis: Understanding user preferences and book reviews
+
+🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Fork the project
+Create your feature branch (git checkout -b feature/amazing-feature)
+Commit your changes (git commit -m 'Add some amazing feature')
+Push to the branch (git push origin feature/amazing-feature)
+Open a Pull Request
+
+
+📞 Contact
+Abhisek Samal- @codeAvk
+Project Link: https://github.com/CodeAvk/AI-Book-Explorer
+
+<div align="center">
+  <p>Made with ❤️ for book lovers everywhere</p>
+</div>
